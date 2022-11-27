@@ -20,5 +20,10 @@ public class Main {
         else {
             System.out.println("Date : "+new Date(date));
         }
+		
+		int num = 10;
+		int num2 = 100;
+		
+		System.out.println("the result is :"+num + num2)
     }
 }
