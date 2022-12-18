@@ -1,0 +1,14 @@
+was ist programierung
+ Auf diese Frage könnte man antworten: Bei der Programmierung schreibt man dem Computer auf, was er tun soll und er führt das aus.
+                      Ganz so einfach ist der Begriff dann aber doch nicht erklärt.
+
+                      Unter Programmierung versteht man ganz formal gesehen die Erstellung von Software für einen Computer.
+                      Grundsätzlich unterscheidet man zwischen Systemprogrammierung, die für den Betrieb des Computers selbst benötigte Software, wie Betriebssystem oder Compiler umfasst, und Anwenderprogrammierung, die sich mit der Erstellung aller zur Lösung bestimmter Anwendungen notwendigen Programme, wie z.B. Textverarbeitung, Graphikprogramme oder Tabellenkalkulation, beschäftigt. Um programmieren zu können, benötigt man eine Programmiersprache, eine Schnittstelle zur Maschinensprache und natürlich einen Computer, auf dem das Programm laufen kann.
+
+                      Eine Programmiersprache dient der Formulierung der exakten Beschreibung eines Algorithmus, in einer dem Computer indirekt verständlichen Weise, so dass er diesen verarbeiten kann. Ein Algorithmus ist eine Folge eindeutiger und ausführbarer Anweisungen. Aus zulässigen Eingabedaten werden dabei nach endlich vielen Verarbeitungsschritten bestimmte Ausgabedaten bereitgestellt. Algorithmen sind der Grundbaustein eines jeden Programms.
+                      Eine Schnittstelle zur Maschinensprache wird benötigt, da die gebräuchlichen und einfacher zu erlernenden Programmiersprachen nicht der Sprache des Computers entsprechen. Ein Rechner "versteht" in dem Sinne nur Maschinencode. Wenn man nicht den Maschinencode selbst schreiben kann, benötigt man eine Schnittstelle, welche das Programm in Maschinensprache umwandelt. Zu diesem Zweck gibt es 3 Arten von Schnittstellen: den Compiler, den Interpreter und den Assembler. Ein Interpreter führt die Anweisungen direkt aus, ohne vorherige Umwandlung, Compiler und Assembler dagegen wandeln das Programm vor der Ausführung in Maschinensprache um.
+                      Der fertige Maschinencode wird letztendlich vom Prozessor des Computer ausgeführt und Anweisung für Anweisung abgearbeitet.
+
+                      Das Ziel der Programmierung sind Programme, die dem Anwender und Nutzer die Arbeit erleichtern, Schritte zu automatisieren oder bestimmte Aufgaben ganz abzunehmen. Die Programmierung ist beendet, wenn das Programm fehlerfrei läuft.
+                      Softwareentwicklung dagegen ist weitaus mehr als Programmierung. Heutzutage gehört dazu nicht nur, das Schreiben eines Programms, was die gewünschten Funktionen und Arbeiten erfüllt, sondern auch das Schreiben einer Dokumentation, das Reagieren auf eventuell auftauchende Fehler und Probleme beim Anwender ("Bugs") und schließlich auch die Weiterentwicklung des Programms.
+
